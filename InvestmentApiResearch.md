@@ -20,9 +20,9 @@ This is where I'm going to record everything that I need for my investment resea
 
 ### APIs
 
-1. Get Quote = `GET /v1/markets/quotes?symbols=####,####`
-1. Get Historical Quote = `GET /v1/markets/history?symbol=#####&start=####-##-##&end=####-##-##`
-1. Get Time & Sales (Today) = `GET /v1/markets/timesales?symbol=#####&interval=5min&start=####-##-##&end=####-##-##`
+1. Get Quote = Tradier = `GET /v1/markets/quotes?symbols=####,####`
+1. Get Historical Quote = Tradier = `GET /v1/markets/history?symbol=#####&start=####-##-##&end=####-##-##`
+1. Get Time & Sales (Today) = Tradier = `GET /v1/markets/timesales?symbol=#####&interval=5min&start=####-##-##&end=####-##-##`
 
 ## ETFs
 
@@ -34,7 +34,9 @@ This is where I'm going to record everything that I need for my investment resea
 
 ### APIs
 
-TODO
+1. Get Quote = Tradier = `GET /v1/markets/quotes?symbols=####,####`
+1. Get Historical Quote = Tradier = `GET /v1/markets/history?symbol=#####&start=####-##-##&end=####-##-##`
+1. Get Time & Sales (Today) = Tradier = `GET /v1/markets/timesales?symbol=#####&interval=5min&start=####-##-##&end=####-##-##`
 
 ## Mutual Funds
 
