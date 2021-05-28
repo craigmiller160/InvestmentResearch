@@ -4,7 +4,10 @@ This is where I'm going to record everything that I need for my investment resea
 
 ## API Services
 
-TODO
+1. Tradier (https://api.tradier.com/v1/)
+	1. Data is delayed 15 minutes.
+	1. Only has Stocks & ETFs.
+	1. Doesn't appear to be request limit.
 
 ## Stocks
 
@@ -14,9 +17,12 @@ TODO
 1. Historical Stock Price
 1. Current Day Price Ticker
 
+
 ### APIs
 
-TODO
+1. Get Quote = GET /v1/markets/quotes?symbols=####,####
+1. Get Historical Quote = GET /v1/markets/history?symbol=#####&start=####-##-##&end=####-##-##
+1. Get Time & Sales (Today) = GET /v1/markets/timesales?symbol=#####&interval=5min&start=####-##-##&end=####-##-##
 
 ## ETFs
 
