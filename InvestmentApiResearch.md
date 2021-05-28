@@ -17,6 +17,11 @@ This is where I'm going to record everything that I need for my investment resea
 1. Historical Stock Price
 1. Current Day Price Ticker
 
+### Validation Symbols
+
+1. AAPL (Apple)
+2. CI (Cigna)
+
 
 ### APIs
 
@@ -31,6 +36,10 @@ This is where I'm going to record everything that I need for my investment resea
 1. Current ETF Price
 1. Historical ETF Price
 1. Current Day Price Ticker
+
+### Validation Symbols
+
+1. VOO (Vanguard S&P 500 Index Fund)
 
 ### APIs
 
